@@ -1,0 +1,34 @@
+{
+	"Blackholes": [{
+		"blackhole": "TON618",
+		"mass": "66 billion Mo (1Mo = 1 sun)",
+		"type": "Quasar",
+		"distance": "10.4 gigalight-years",
+		"description": "TON 618 is a very distant and extremely luminous quasar�technically, a hyperluminous, broad-absorption line, radio-loud quasar�located near the North Galactic Pole in the constellation Canes Venatici. It contains the most massive known black hole, with a mass of 66 billion M?."
+	}, {
+		"blackhole": "Holmberg 15A",
+		"mass": "7�10^13 Mo (1Mo = 1 sun)",
+		"type": "cD;BrClG",
+		"distance": "704�10^6 light years",
+		"description": "Holmberg 15A is a supergiant elliptical galaxy and the central dominant galaxy of the Abell 85 galaxy cluster in the constellation Cetus, about 700 million light-years from Earth. It was discovered c.?1937 by Erik Holmberg. It briefly shot to fame when it was reported to have the largest core ever observed in a galaxy, spanning some 15,000 light years, however this was subsequently refuted."
+	},{
+		"blackhole": "IC 1101",
+		"mass": "(4�10)�10^10 Mo (1Mo = 1 sun)",
+		"type": "E/S0",
+		"distance": "1.045 � 0.073 billionlight-years",
+		"description": "IC 1101 is a supergiant elliptical galaxy at the center of the Abell 2029 galaxy cluster and is one of the largest known galaxies. Its halo extends about 600 kiloparsecs (2 million light-years) from its core, and it has a mass of about 100 trillion stars. The galaxy is located 320 megaparsecs (1.04 billion light-years) from Earth. "
+	},{
+		"blackhole": "S5 0014+81",
+		"mass": "4�10^10 Mo (1Mo = 1 sun)",
+		"type": "Quasar",
+		"distance": "1.2�10^10 light years",
+		"description": "S5 0014+81 is a distant, compact, hyperluminous, broad-absorption-line quasar, or blazar, located near the high declination region of the constellation Cepheus, near the North Equatorial Pole."
+	},{
+		"blackhole": "H1821+643",
+		"mass": "3�10^10 Mo (1Mo = 1 sun)",
+		"type": "Quasar",
+		"distance": "3.4 gigalight-years",
+		"description": "H1821+643 is a quasar in the constellation of Draco. It is situated in a massive, strong cooling flow cluster. Astronomers in 2014 identified H1821+643 as the most massive black hole with a precisely measured mass, at 30 billion solar masses.Several other black holes are possibly more massive, but they have less accurate mass estimates. The Schwarzschild diameter of this black hole is about 172 terametres (1,150 AU), which is about 14.5 times the diameter of Pluto's orbit. The average density of the hole is 22 g/m�, less than air on Earth."
+	}]
+
+}
